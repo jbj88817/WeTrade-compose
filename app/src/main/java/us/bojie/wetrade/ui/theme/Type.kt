@@ -9,7 +9,7 @@ import androidx.compose.ui.unit.sp
 import us.bojie.wetrade.R
 
 private val Montserrat = FontFamily(
-    Font(R.font.montserrat_extraBold, FontWeight.ExtraBold),
+    Font(R.font.montserrat_extrabold, FontWeight.ExtraBold),
     Font(R.font.montserrat_semibold, FontWeight.SemiBold),
     Font(R.font.montserrat_medium, FontWeight.Medium),
     Font(R.font.montserrat_light, FontWeight.Light),
